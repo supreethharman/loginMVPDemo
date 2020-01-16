@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginMVPApp</string>
+    <string name="login">Login</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_password">enter password</string>
+    <string name="welcome_to_home_screen">Welcome to home screen</string>
+</resources>
